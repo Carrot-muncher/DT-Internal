@@ -1,0 +1,14 @@
+.nav-bar{
+    background-color: rgb(162, 162, 162);
+    
+}
+
+example{
+  display: inline-block;
+  background-color: blueviolet;
+  color: white;
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  padding: 10px;
+}
